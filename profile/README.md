@@ -7,7 +7,6 @@ This project is a **Learning Management System (LMS)** designed to enhance the I
 
 ![LMS](https://github.com/user-attachments/assets/347de76a-b96f-418b-ac47-677d842b7a87)
 
-
 ### 🚀 Sponsored By: **Sumago Infotech Pvt Ltd**
 
 ## 🌟 Key Features
@@ -33,6 +32,10 @@ This project is a **Learning Management System (LMS)** designed to enhance the I
 - React
 - Bootstrap
 - Figma (UI/UX designing)
+
+### **AWS Video on Demand Architecture:**
+![image](https://github.com/user-attachments/assets/9613dc0c-c855-46ee-991f-4b8eae65a8d9)
+
 
 [//]: # (### **Cloud & DevOps:**)
 <!-- [//]: # (- AWS (RDS, S3, Lambda, API Gateway, CloudFront, SNS)) -->
